@@ -63,7 +63,7 @@ int loggedIN()
 {
   printf("\n");
   int u1, p1;
-  printf("User Name: ");
+  printf("User ID: ");
   scanf("%d", &u1);
   printf("Password: ");
   scanf("%d", &p1);
