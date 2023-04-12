@@ -1,7 +1,6 @@
 // includes
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 
 // customer profile
 int pass = 101112;
@@ -46,10 +45,12 @@ int main()
     createAccount();
     break;
 
+    // exit program
   case 3:
     exit(0);
     break;
 
+    // about us
   case 4:
     aboutProject();
     break;
