@@ -1,0 +1,20 @@
+This Project is called Bank Management System using C progrmamming language.
+
+Some key features of this project: 
+1. Create new account
+2. Different schemes
+3. Loan system
+4. Removing existing account 
+5. Show customer profile
+6. Calculate after transaction
+7. Calculate after withdraw
+8. Show the list of exitsting account
+9. Log out / Log in
+10. Exit program
+
+
+Contributed by: 
+1. Nabil Khan (1036)
+2. Md. Sakib hossain (1266)
+3. Md. Shahriar Islam (1259)
+4. Md Assaduzzaman (1233)
